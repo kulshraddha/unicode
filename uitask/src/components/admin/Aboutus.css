@@ -1,0 +1,43 @@
+.aboutstart{
+    font-size: 23px;
+    margin: 30px;
+}
+.bglogo img{
+    height: 90px;
+    width: 100px;
+    border-radius: 45px;
+}
+.parts{
+    display: flex;
+}
+.title{
+    height: 80px;
+    width: 140px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.title span {
+    color: rgb(160, 158, 158);
+    font-size: 20px;
+}
+.title p {
+    font-weight: 700;
+}
+.title1 {
+    margin-top: 18px;  
+}
+.para p{
+    font-size: 16px;
+}
+.para{
+    height: 10px;
+    width: 850px;
+    color:rgb(139, 137, 137) ;
+}
+.details{
+    margin-top: 70px;
+    display: flex;
+}
+.load1{
+    margin-left: 50px;
+}

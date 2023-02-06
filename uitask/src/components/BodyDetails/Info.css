@@ -1,0 +1,41 @@
+.infostart{
+    display: flex;
+}
+
+.contact{
+    height: 150px;
+    width: 350px;
+   margin-top: 17px;
+   border-radius: 16px;
+}
+
+.adress{
+    height: 150px;
+    width: 350px;
+   margin-top: 17px;
+   border-radius: 16px;
+   margin-left: 15px;
+}
+.time{
+    height: 150px;
+    width: 350px;
+   margin-top: 17px;
+   border-radius: 16px;
+   margin-left: 15px;
+}
+.connect{
+    padding: 12px;
+}
+.text{
+    font-size: 20px;
+    font-weight: 500;
+}
+.icon{
+    margin-left: 150px;
+}
+.icon1{
+    margin-left: 40px;
+}
+.part5 span {
+    font-size: 15px;
+}
