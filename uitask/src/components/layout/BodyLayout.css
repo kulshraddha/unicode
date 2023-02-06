@@ -1,0 +1,41 @@
+.start{
+    background-color: rgb(238, 235, 235);
+    height: 700px;
+}
+.both{
+    display: flex;
+}
+.cld1{
+    background-color: #fff;
+    width: 250px;
+    height: 600px;
+    margin: 20px;
+    border-radius: 13px;
+}
+.cld2{
+    background-color: #fff;
+    width: 1200px;
+    height: 600px;
+    margin: 20px;
+    border-radius: 13px;
+}
+.logo img {
+    height: 50px;
+    width: 70px;
+}
+.logo{
+   text-align: center;
+}
+.link{
+    width: 160px;
+    height: 40px;
+}
+.needhelp{
+    width: 150px;
+    height: 120px;
+    border: 2px solid #ddd;
+    margin-left: 50px;
+    margin-top: 80px;
+    border-radius: 12px;
+    text-align: center;
+}
